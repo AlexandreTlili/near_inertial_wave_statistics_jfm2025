@@ -1,5 +1,5 @@
 # near_inertial_wave_statistics_jfm2025
-To reproduce the simulations described in the JFM paper, "Statistics of Near-Inertial Waves Over a Background Flow via Quantum and Statistical Mechanics,"
+To reproduce the simulations described in the JFM paper, "Statistics of Near-Inertial Waves Over a Background Flow via Quantum and Statistical Mechanics".
 
 To run and analyze a simulation:
 1) Filter the background flow field using the Jupyter notebook "filter_vortexGaz.ipynb" to generate the file "psi.npz". Note that the background flow field, "Flowfield_Meunier.mat", corresponds to an instantaneous snapshot of the 2D Navier-Stokes equations in the transient regime.
